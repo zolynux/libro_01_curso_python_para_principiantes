@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "multiparadigma",
+    "tipado"
+  ],
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black"
+}
