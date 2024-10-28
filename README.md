@@ -285,3 +285,25 @@ print mi_diccionario['clave_2']  # Salida: valor_2
 Un diccionario permite eliminar cualquier entrada: `del(mi_diccionario['clave_2'])`.
 
 Al igual que las listas, el diccionario permite modificar los valores: `mi_diccionario['clave_1'] = 'nuevo valor'`
+
+## Estructuras de control de flujo
+
+Una estructura de control, es un bloque de código que permite agrupar instrucciones de manera controlada.
+
+- Estructuras de control condicionales
+- Estructuras de control iterativas
+
+### Identación
+
+**¿Qué es la identación?** En un lenguaje informático, la identación es lo que la sangría al lenguaje humano escrito (a nivel formal). Así como para el lenguaje formal, debe respetar ciertas sangrías.
+
+**No todos los lenguajes de programación, necesitan de una identación**, aunque sí, se estila implementarla, a fin de otorgar mayor legibilidad al código fuente.
+
+Una identación de **4 espacios en blanco**.
+
+Una estructura de control:
+
+~~~py
+inicio de la estructura de control:
+    expresiones
+~~~
